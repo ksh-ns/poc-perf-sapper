@@ -20,6 +20,13 @@
     eleifend condimentum posuere rhoncus integer himenaeos, class sit dictum
     volutpat blandit lacinia tristique.
   </p>
+  <p>
+    <a
+      href="/tailwindcss"
+      class="underline text-indigo-600 hover:text-indigo-500">
+      To Sample Page
+    </a>
+  </p>
   <ul>
     <li>
       <a
